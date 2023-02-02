@@ -1,0 +1,17 @@
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\bin\Debug\tr-CY\hesap makinesi.resources.dll
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\bin\Debug\tr\hesap makinesi.resources.dll
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.tr-CY.resources
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.tr.resources
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\tr-CY\hesap makinesi.resources.dll
+C:\Users\alper\OneDrive\Masaüstü\hesap\hesap makinesi\hesap makinesi\obj\Debug\tr\hesap makinesi.resources.dll
